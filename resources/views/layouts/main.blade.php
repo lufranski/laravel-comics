@@ -9,6 +9,8 @@
     @yield('head')
 </head>
 <body>
+    @include('components.header')
+    @include('components.jumbo')
     @yield('content')
 </body>
 </html>

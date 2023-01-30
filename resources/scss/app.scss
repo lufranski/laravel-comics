@@ -2,4 +2,15 @@
 
 ul {
     list-style-type: none;
+    li {
+        padding: 2rem 1rem;
+    }
+    #selected {
+        border-bottom: 3px solid $primary;
+    }
+}
+
+#jumbo {
+    height: 350px;
+    background-image: url('/resources/img/jumbotron.jpg');
 }
