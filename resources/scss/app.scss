@@ -1,7 +1,10 @@
 @import '~bootstrap/scss/bootstrap';
+#ms_header {
+    height: 75px;
+}
 
 #header-logo{
-    height: 80px;
+    height: 70px;
 }
 
 ul {
@@ -10,7 +13,7 @@ ul {
         padding: 2rem 1rem;
     }
     #selected {
-        border-bottom: 3px solid $primary;
+        border-bottom: 5px solid $primary;
     }
 }
 
@@ -30,21 +33,31 @@ a {
 #ms_label {
     width: fit-content;
     position: absolute;
-    top: 430px;
+    top: 400px;
     left: 180px;
 }
 
 #blue {
-    height: 70px;
+    height: 80px;
 }
 
 .ms_poster {
     width: 150px;
     position: absolute;
-    top: 270px;
+    top: 250px;
     left: 400px;
 }
 
 h2 {
     color: $primary;
+}
+
+li {
+    img {
+        width: 70px;
+    }
+
+    .resize {
+        width: 50px;
+    }
 }

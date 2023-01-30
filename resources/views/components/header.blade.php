@@ -1,4 +1,4 @@
-<div class="d-flex justify-content-around mx-auto w-75">
+<div id="ms_header" class="d-flex justify-content-around mx-auto w-75">
         
     <img id="header-logo" src="{{ Vite :: asset('/resources/img/dc-logo.png') }}" alt="">
 

@@ -13,7 +13,7 @@
                 <h2 style="color: #0A2647">Action Comics #1000: The Deluxe Edition</h2>
                 
                 <div class="bg-success d-flex text-white p-2">
-                    <div class="d-flex justify-content-between col-9 align-self-center">
+                    <div class="d-flex justify-content-between ps-2 pe-2 col-9 align-self-center">
                         <h6>
                             US Price
                             <span class="fw-bold">
@@ -26,7 +26,7 @@
                         </h6>
                     </div>
 
-                    <div class="btn-group col-3">
+                    <div class="btn-group col-3 mb-2">
                         <button type="button" class="btn btn-success dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
                           Check Availability
                         </button>

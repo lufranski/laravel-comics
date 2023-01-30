@@ -118,7 +118,51 @@
                 </div>
                 
             </div>
+
+            <div class="bg-primary text-white fw-bold py-2 px-5 mt-5 mx-auto">
+                LOAD MORE
+            </div>
+
         </div>
+        
+    </div>
+    <div class="bg-primary text-white fw-bold">
+        <ul class="px-5 d-flex justify-content-center">
+            <li>
+               <img class="resize" src="{{Vite::asset('resources/img/buy-comics-digital-comics.png')}}" alt="">
+               <span>
+                   DIGITAL COMICS
+                </span> 
+            </li>
+
+            <li>
+                <img src="{{Vite::asset('resources/img/buy-comics-merchandise.png')}}" alt="">
+                <span>
+                    DC MERCHANDISE
+                </span>
+            </li>
+
+            <li>
+                <img src="{{Vite::asset('resources/img/buy-comics-subscriptions.png')}}" alt="">
+                <span>
+                    SUBSCRIPTIONS
+                </span>
+            </li>
+            
+            <li>
+                <img class="resize" src="{{Vite::asset('resources/img/buy-comics-shop-locator.png')}}" alt="">
+                <span>
+                    COMIC SHOP LOCATOR
+                </span>
+            </li>
+
+            <li class="d-flex">
+                <img class="mt-2" src="{{Vite::asset('resources/img/buy-dc-power-visa.svg')}}" alt="">
+                <p class="align-self-center mt-3">
+                    DC POWER VISA
+                </p>
+            </li>
+        </ul>
     </div>
 
 @endsection
