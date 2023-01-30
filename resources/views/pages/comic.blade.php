@@ -40,7 +40,9 @@
                       </div>
                 </div>
 
-                <p>The celebration of 1,000 issues of Action Comics continues with a new, Deluxe Edition of the amazing comic that won raves when it hit comics shops in April! This hardcover includes all the stories from that issue, plus the tale by writer Paul Levitz and artist Neal Adams that appeared in the Action Comics: 80 Years Of Superman hardcover, as well as all the variant covers, design sketches by Jim Lee for Superman’s new look, scripts for the stories, the original art from the lost story featuring art by Curt Swan and more! Plus: a complete reprint of the stories that started it all—the Superman stories Action Comics #1 and 2 from 1938!</p>
+                <p>
+                    The celebration of 1,000 issues of Action Comics continues with a new, Deluxe Edition of the amazing comic that won raves when it hit comics shops in April! This hardcover includes all the stories from that issue, plus the tale by writer Paul Levitz and artist Neal Adams that appeared in the Action Comics: 80 Years Of Superman hardcover, as well as all the variant covers, design sketches by Jim Lee for Superman’s new look, scripts for the stories, the original art from the lost story featuring art by Curt Swan and more! Plus: a complete reprint of the stories that started it all—the Superman stories Action Comics #1 and 2 from 1938!
+                </p>
             </div>
     
             <div id="adv" class="col-4 text-end">
@@ -51,8 +53,8 @@
         </div>    
     </div>
     
-    <div class="row d-flex justify-content-evenly" style="background-color: #EEEEEE">
-        <table class="table w-25 me-2">
+    <div class="container-fluid d-flex justify-content-evenly" style="background-color: #EEEEEE">
+        <table class="table w-25">
             <thead>
               <tr>
                 <th scope="col" style="color: #0A2647">Talent</th>
@@ -72,9 +74,9 @@
                 </td>
               </tr>
             </tbody>
-          </table>
+        </table>
 
-          <table class="table w-25">
+        <table class="table w-25">
             <thead>
               <tr>
                 <th scope="col" style="color: #0A2647">Specs</th>
@@ -95,7 +97,41 @@
                 <td colspan="2">2018-10-02</td>
               </tr>
             </tbody>
-          </table>
+        </table>
+        
         
     </div>
+    
+    <div class="container-fluid" style="background-color: #EEEEEE">
+        <ul class="d-flex justify-content-center fw-bold">
+                  <li class="grey d-flex justify-content-between">
+                      <span class="align-self-center">
+                          DIGITAL COMICS
+                      </span>
+                      <img src="{{Vite::asset('resources/img/buy-comics-digital-comics.png')}}" alt="">
+                  </li>
+                  <li class="grey d-flex justify-content-between">
+                      <span class="align-self-center">
+                          SHOP DC
+                      </span>
+                      <img src="{{Vite::asset('resources/img/buy-comics-subscriptions.png')}}" alt="">
+                  </li>
+                  <li class="grey d-flex justify-content-between">
+                      <span class="align-self-center">
+                          COMIC SHOP LOCATOR
+                      </span>
+                      <img src="{{Vite::asset('resources/img/buy-comics-shop-locator.png')}}" alt="">
+                  </li>
+                  <li class="grey d-flex justify-content-between">
+                      <span class="align-self-center">
+                          SUBSCRIPTIONS
+                      </span>
+                      <img src="{{Vite::asset('resources/img/buy-comics-merchandise.png')}}" alt="">
+                  </li>
+        </ul>
+    </div>
+    
+
+    
+
 @endsection

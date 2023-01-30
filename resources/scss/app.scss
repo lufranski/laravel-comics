@@ -61,3 +61,14 @@ li {
         width: 50px;
     }
 }
+
+.grey {
+    color: #B2B2B2;
+    width: 300px;
+    border: 1px solid #B2B2B2;
+
+    img {
+        filter: brightness(0) saturate(100%) invert(76%) sepia(1%) saturate(272%) hue-rotate(25deg) brightness(94%) contrast(95%);
+        width: 50px;
+    }
+}
