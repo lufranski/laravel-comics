@@ -1,5 +1,9 @@
 @import '~bootstrap/scss/bootstrap';
 
+#header-logo{
+    height: 80px;
+}
+
 ul {
     list-style-type: none;
     li {
@@ -15,6 +19,32 @@ ul {
     background-image: url('/resources/img/jumbotron.jpg');
 }
 
-// #card-container {
-//     height: 500px;
-// }
+a {
+    text-decoration: none;
+
+    h6 {
+        font-size: 13px;
+    }
+}
+
+#ms_label {
+    width: fit-content;
+    position: absolute;
+    top: 430px;
+    left: 180px;
+}
+
+#blue {
+    height: 70px;
+}
+
+.ms_poster {
+    width: 150px;
+    position: absolute;
+    top: 270px;
+    left: 400px;
+}
+
+h2 {
+    color: $primary;
+}
