@@ -1,0 +1,82 @@
+{
+  "resources/img/buy-comics-digital-comics.png": {
+    "file": "assets/buy-comics-digital-comics.330ea59f.png",
+    "src": "resources/img/buy-comics-digital-comics.png"
+  },
+  "resources/img/buy-comics-merchandise.png": {
+    "file": "assets/buy-comics-merchandise.1621de87.png",
+    "src": "resources/img/buy-comics-merchandise.png"
+  },
+  "resources/img/adv.jpg": {
+    "file": "assets/adv.d0b7a1b9.jpg",
+    "src": "resources/img/adv.jpg"
+  },
+  "resources/img/buy-dc-power-visa.svg": {
+    "file": "assets/buy-dc-power-visa.df2eb205.svg",
+    "src": "resources/img/buy-dc-power-visa.svg"
+  },
+  "resources/img/buy-comics-subscriptions.png": {
+    "file": "assets/buy-comics-subscriptions.5bd7e672.png",
+    "src": "resources/img/buy-comics-subscriptions.png"
+  },
+  "resources/img/cta-icons.png": {
+    "file": "assets/cta-icons.0a36008a.png",
+    "src": "resources/img/cta-icons.png"
+  },
+  "resources/img/buy-comics-shop-locator.png": {
+    "file": "assets/buy-comics-shop-locator.52165b84.png",
+    "src": "resources/img/buy-comics-shop-locator.png"
+  },
+  "resources/img/dc-logo-bg.png": {
+    "file": "assets/dc-logo-bg.eb9d5414.png",
+    "src": "resources/img/dc-logo-bg.png"
+  },
+  "resources/img/footer-facebook.png": {
+    "file": "assets/footer-facebook.682b1825.png",
+    "src": "resources/img/footer-facebook.png"
+  },
+  "resources/img/favicon.ico": {
+    "file": "assets/favicon.d34101a4.ico",
+    "src": "resources/img/favicon.ico"
+  },
+  "resources/img/footer-pinterest.png": {
+    "file": "assets/footer-pinterest.8f32d617.png",
+    "src": "resources/img/footer-pinterest.png"
+  },
+  "resources/img/footer-periscope.png": {
+    "file": "assets/footer-periscope.f168b0a5.png",
+    "src": "resources/img/footer-periscope.png"
+  },
+  "resources/img/dc-logo.png": {
+    "file": "assets/dc-logo.eeb3f51e.png",
+    "src": "resources/img/dc-logo.png"
+  },
+  "resources/img/footer-bg.jpg": {
+    "file": "assets/footer-bg.76b660ea.jpg",
+    "src": "resources/img/footer-bg.jpg"
+  },
+  "resources/img/footer-twitter.png": {
+    "file": "assets/footer-twitter.8f30b0e5.png",
+    "src": "resources/img/footer-twitter.png"
+  },
+  "resources/img/footer-youtube.png": {
+    "file": "assets/footer-youtube.73b87298.png",
+    "src": "resources/img/footer-youtube.png"
+  },
+  "resources/img/jumbotron.jpg": {
+    "file": "assets/jumbotron.c822fca9.jpg",
+    "src": "resources/img/jumbotron.jpg"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app.8bba709d.js",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "css": [
+      "assets/app.0acf8826.css"
+    ]
+  },
+  "resources/js/app.css": {
+    "file": "assets/app.0acf8826.css",
+    "src": "resources/js/app.css"
+  }
+}
